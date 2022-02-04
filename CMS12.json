@@ -1,0 +1,339 @@
+{
+    "contentLink": {
+        "id": 5,
+        "workId": 0,
+        "guidValue": "dd7e6f00-63fc-47f9-b696-c095fe1620f9",
+        "url": "http://dotcom.com/en/"
+    },
+    "name": "Start",
+    "language": {
+        "link": "http://dotcom.com/en/",
+        "displayName": "English",
+        "name": "en"
+    },
+    "existingLanguages": [
+        {
+            "link": "http://dotcom.com/en/",
+            "displayName": "English",
+            "name": "en"
+        },
+        {
+            "link": "http://localhost:8080/",
+            "displayName": "Swedish",
+            "name": "sv"
+        }
+    ],
+    "contentType": [
+        "Page",
+        "LandingPage"
+    ],
+    "parentLink": {
+        "id": 1,
+        "workId": 0,
+        "guidValue": "43f936c9-9b23-4ea3-97b2-61c538ad07c9",
+        "url": "http://dotcom.com/en/"
+    },
+    "routeSegment": "start",
+    "url": "http://dotcom.com/en/",
+    "changed": "2021-03-12T13:11:02Z",
+    "created": "2017-12-13T15:01:27Z",
+    "startPublish": "2017-12-13T15:02:28Z",
+    "saved": "2022-01-07T13:46:55Z",
+    "status": "Published",
+    "category": [],
+    "buyTicketBlock": {
+        "heading": "Buy Tickets Now",
+        "message": "Enter your email address to get a special invite!"
+    },
+    "heroImage": "http://cms.dotcom.com/globalassets/marketing/hero-min.jpg",
+    "title": "music festival 2021",
+    "subtitle": "December 22-28",
+    "artistsLink": {
+        "id": 6,
+        "workId": 0,
+        "guidValue": "711ed793-26d1-4465-8376-971e960a522e",
+        "url": "http://dotcom.com/en/artists/",
+        "expanded": {
+            "contentLink": {
+                "id": 6,
+                "workId": 0,
+                "guidValue": "711ed793-26d1-4465-8376-971e960a522e",
+                "url": "http://dotcom.com/en/artists/"
+            },
+            "name": "Artists",
+            "language": {
+                "link": "http://dotcom.com/en/artists/",
+                "displayName": "English",
+                "name": "en"
+            },
+            "existingLanguages": [
+                {
+                    "link": "http://dotcom.com/en/artists/",
+                    "displayName": "English",
+                    "name": "en"
+                },
+                {
+                    "link": "http://localhost:8080/artister/",
+                    "displayName": "Swedish",
+                    "name": "sv"
+                }
+            ],
+            "contentType": [
+                "Page",
+                "ArtistContainerPage"
+            ],
+            "parentLink": {
+                "id": 5,
+                "workId": 0,
+                "guidValue": "dd7e6f00-63fc-47f9-b696-c095fe1620f9",
+                "url": "http://dotcom.com/en/"
+            },
+            "routeSegment": "artists",
+            "url": "http://dotcom.com/en/artists/",
+            "changed": "2021-03-12T13:11:02Z",
+            "created": "2017-11-22T17:17:25Z",
+            "startPublish": "2017-11-22T17:17:30Z",
+            "saved": "2021-03-12T13:11:02Z",
+            "status": "Published",
+            "category": []
+        }
+    },
+    "mainContentArea": [
+        {
+            "displayOption": "",
+            "contentLink": {
+                "id": 41,
+                "workId": 0,
+                "guidValue": "6d559290-a37f-4741-a0de-944efba547ee",
+                "expanded": {
+                    "contentLink": {
+                        "id": 41,
+                        "workId": 0,
+                        "guidValue": "6d559290-a37f-4741-a0de-944efba547ee"
+                    },
+                    "name": "Music Festival",
+                    "language": {
+                        "displayName": "English",
+                        "name": "en"
+                    },
+                    "existingLanguages": [
+                        {
+                            "displayName": "English",
+                            "name": "en"
+                        },
+                        {
+                            "displayName": "Swedish",
+                            "name": "sv"
+                        }
+                    ],
+                    "contentType": [
+                        "Block",
+                        "ContentBlock"
+                    ],
+                    "parentLink": {
+                        "id": 40,
+                        "workId": 0,
+                        "guidValue": "43d54b7a-e957-43dd-ba16-1e5805e451aa",
+                        "url": "http://dotcom.com/contentassets/43d54b7ae95743ddba161e5805e451aa/"
+                    },
+                    "changed": "2021-03-12T13:11:02Z",
+                    "created": "2018-01-04T20:19:02Z",
+                    "startPublish": "2018-01-04T20:19:02Z",
+                    "saved": "2021-03-12T13:11:02Z",
+                    "status": "Published",
+                    "category": [],
+                    "title": "music festival is coming soon",
+                    "image": "http://cms.dotcom.com/globalassets/marketing/collage-min.png",
+                    "imageAlignment": "Left",
+                    "content": "<p>Get ready for the largest music experience in North America. Music Festival offers a variety of food vendors, performances from your favorite artists, and environmentally conscious planning.</p>"
+                }
+            }
+        },
+        {
+            "displayOption": "",
+            "contentLink": {
+                "id": 42,
+                "workId": 0,
+                "guidValue": "c2136e2a-0520-4c53-9358-7e32997634de",
+                "expanded": {
+                    "contentLink": {
+                        "id": 42,
+                        "workId": 0,
+                        "guidValue": "c2136e2a-0520-4c53-9358-7e32997634de"
+                    },
+                    "name": "Lineup",
+                    "language": {
+                        "displayName": "English",
+                        "name": "en"
+                    },
+                    "existingLanguages": [
+                        {
+                            "displayName": "English",
+                            "name": "en"
+                        },
+                        {
+                            "displayName": "Swedish",
+                            "name": "sv"
+                        }
+                    ],
+                    "contentType": [
+                        "Block",
+                        "ContentBlock"
+                    ],
+                    "parentLink": {
+                        "id": 40,
+                        "workId": 0,
+                        "guidValue": "43d54b7a-e957-43dd-ba16-1e5805e451aa",
+                        "url": "http://dotcom.com/contentassets/43d54b7ae95743ddba161e5805e451aa/"
+                    },
+                    "changed": "2021-03-12T13:11:02Z",
+                    "created": "2018-01-05T16:34:11Z",
+                    "startPublish": "2018-01-05T16:34:11Z",
+                    "saved": "2021-03-12T13:11:02Z",
+                    "status": "Published",
+                    "category": [],
+                    "title": "this year's lineup",
+                    "image": "http://cms.dotcom.com/globalassets/marketing/concert-collage-min.png",
+                    "imageAlignment": "Right",
+                    "content": "<ol>\n<li>Air and Firewood</li>\n<li>Alexa Everywhere</li>\n<li>Boring Thrill</li>\n<li>Brave Minor</li>\n<li>Cranky Babe</li>\n<li>Despite Yu</li>\n<li>Greg Rabbit</li>\n</ol>\n<p><a href=\"http://dotcom.com/en/artists/\">And Much More!</a></p>"
+                }
+            }
+        },
+        {
+            "displayOption": "half",
+            "contentLink": {
+                "id": 44,
+                "workId": 0,
+                "guidValue": "5e6adac0-a79f-4832-ad42-7bfb37784b56",
+                "expanded": {
+                    "contentLink": {
+                        "id": 44,
+                        "workId": 0,
+                        "guidValue": "5e6adac0-a79f-4832-ad42-7bfb37784b56",
+                        "url": "http://cms.dotcom.com/globalassets/marketing/collage-min.png"
+                    },
+                    "name": "collage-min.png",
+                    "language": {
+                        "link": "http://cms.dotcom.com/globalassets/marketing/collage-min.png",
+                        "displayName": "",
+                        "name": ""
+                    },
+                    "existingLanguages": [],
+                    "contentType": [
+                        "Image",
+                        "Media",
+                        "ImageFile"
+                    ],
+                    "parentLink": {
+                        "id": 38,
+                        "workId": 0,
+                        "guidValue": "820ccc14-cfc6-466f-ad4b-444bc3a525bf",
+                        "url": "http://dotcom.com/globalassets/marketing/"
+                    },
+                    "routeSegment": "collage-min.png",
+                    "url": "http://cms.dotcom.com/globalassets/marketing/collage-min.png",
+                    "changed": "2021-03-12T13:11:02Z",
+                    "created": "2018-01-04T21:56:44Z",
+                    "startPublish": "2018-01-04T21:56:44Z",
+                    "saved": "2021-03-12T13:11:02Z",
+                    "status": "Published",
+                    "category": []
+                }
+            }
+        },
+        {
+            "displayOption": "half",
+            "contentLink": {
+                "id": 45,
+                "workId": 0,
+                "guidValue": "46d320ad-19eb-439c-837d-98f12580b71e",
+                "expanded": {
+                    "contentLink": {
+                        "id": 45,
+                        "workId": 0,
+                        "guidValue": "46d320ad-19eb-439c-837d-98f12580b71e",
+                        "url": "http://cms.dotcom.com/globalassets/marketing/concert-collage-min.png"
+                    },
+                    "name": "concert-collage-min.png",
+                    "language": {
+                        "link": "http://cms.dotcom.com/globalassets/marketing/concert-collage-min.png",
+                        "displayName": "",
+                        "name": ""
+                    },
+                    "existingLanguages": [],
+                    "contentType": [
+                        "Image",
+                        "Media",
+                        "ImageFile"
+                    ],
+                    "parentLink": {
+                        "id": 38,
+                        "workId": 0,
+                        "guidValue": "820ccc14-cfc6-466f-ad4b-444bc3a525bf",
+                        "url": "http://dotcom.com/globalassets/marketing/"
+                    },
+                    "routeSegment": "concert-collage-min.png",
+                    "url": "http://cms.dotcom.com/globalassets/marketing/concert-collage-min.png",
+                    "changed": "2021-03-12T13:11:02Z",
+                    "created": "2018-01-04T21:56:44Z",
+                    "startPublish": "2018-01-04T21:56:44Z",
+                    "saved": "2021-03-12T13:11:02Z",
+                    "status": "Published",
+                    "category": []
+                }
+            }
+        }
+    ],
+    "footerContentArea": [
+        {
+            "displayOption": "full",
+            "contentLink": {
+                "id": 43,
+                "workId": 0,
+                "guidValue": "30e60639-7939-4437-a748-79803470d885",
+                "expanded": {
+                    "contentLink": {
+                        "id": 43,
+                        "workId": 0,
+                        "guidValue": "30e60639-7939-4437-a748-79803470d885"
+                    },
+                    "name": "Download our app",
+                    "language": {
+                        "displayName": "English",
+                        "name": "en"
+                    },
+                    "existingLanguages": [
+                        {
+                            "displayName": "English",
+                            "name": "en"
+                        },
+                        {
+                            "displayName": "Swedish",
+                            "name": "sv"
+                        }
+                    ],
+                    "contentType": [
+                        "Block",
+                        "ContentBlock"
+                    ],
+                    "parentLink": {
+                        "id": 40,
+                        "workId": 0,
+                        "guidValue": "43d54b7a-e957-43dd-ba16-1e5805e451aa",
+                        "url": "http://dotcom.com/contentassets/43d54b7ae95743ddba161e5805e451aa/"
+                    },
+                    "changed": "2021-03-12T13:11:02Z",
+                    "created": "2018-01-05T16:41:30Z",
+                    "startPublish": "2018-01-05T16:41:30Z",
+                    "saved": "2021-03-12T13:11:02Z",
+                    "status": "Published",
+                    "category": [],
+                    "title": "download our app!",
+                    "image": "http://cms.dotcom.com/globalassets/marketing/iphone-min.png",
+                    "imageAlignment": "Left",
+                    "content": "<p class=\"u-textSmall\">Take your schedule around with you while you're at Music Festival and save your favorites! Plus, an exclusive look into VIP events and after shows.</p>\n<p class=\"u-textSmall\">&nbsp;</p>\n<p class=\"u-textSmall\"><img alt=\"\" src=\"http://cms.dotcom.com/globalassets/marketing/badge-iphone-min.png\" height=\"43\" width=\"146\" />&nbsp;<img style=\"margin-left:10px\" alt=\"\" src=\"http://cms.dotcom.com/globalassets/marketing/badge-google-min.png\" height=\"43\" width=\"146\" /></p>"
+                }
+            }
+        }
+    ]
+}
